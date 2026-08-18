@@ -1,5 +1,6 @@
 print("===== PYTHON CALCULATOR =====")
 print("Calculator - Development Version")
+print("New Version")
 
 while True:
 
